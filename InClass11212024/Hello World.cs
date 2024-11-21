@@ -13,5 +13,10 @@ namespace InClass11212024
             LargeNumber * 2;
             Console.WriteLine(LargeNumber);
         }
+
+        public static void GoodbyeWorld()
+        {
+            Console.Writeline("Goodbye World");
+        }
     }
 }
